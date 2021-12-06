@@ -1,0 +1,12 @@
+/*Overlapping subproblem property
+someimes like in fibonacci same fib for a number is calculated again to avoid this we'll use :
+Techniques of Dynamic Programmin:
+1. Memoization-top-down (save value caluclated for the first time in memory and then lookup fir it if encountered again)we maintain lookup table to store aldready solved soltuion
+2. Tabulation(save values in tables and lookup table)
+
+Dynamic Programming is used if problem foloows
+1. Optimal Substructure Property
+2. Overlapping Sub Problem*/
+
+/*Fib Program by memoization*/
+
